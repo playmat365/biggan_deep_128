@@ -1,4 +1,4 @@
-# biggan-deep-256 图片素材
+# biggan-deep-128 图片素材
 
 由神经网络 biggan-deep-128 生成的图片
 
